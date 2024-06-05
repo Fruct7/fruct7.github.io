@@ -1,1 +1,46 @@
-document.addEventListener("DOMContentLoaded",function(){var a=document.querySelector(".Telegram");a.addEventListener("click",function(){window.open("https://t.me/TienMinh294","_blank")})});document.addEventListener("DOMContentLoaded",function(){var a=document.querySelector(".Github");a.addEventListener("click",function(){window.open("https://github.com/GLCZ7","_blank")})});document.addEventListener("DOMContentLoaded",function(){var a=document.querySelector(".Facebook");a.addEventListener("click",function(){window.open("https://facebook.com/TienMinh294","_blank")})});document.addEventListener("DOMContentLoaded",function(){var a=document.querySelector(".Instagram");a.addEventListener("click",function(){window.open("https://www.instagram.com/glucozo007/","_blank")})});document.addEventListener("DOMContentLoaded",function(){var a=document.querySelector(".Tiktok");a.addEventListener("click",function(){window.open("https://tiktok.com/@_tiennminhh","_blank")})});document.addEventListener("DOMContentLoaded",function(){var a=document.querySelector(".Youtube");a.addEventListener("click",function(){window.open("https://www.youtube.com/channel/UCCgn4tXIBfOmYu1jaLSMW4w","_blank")})});document.addEventListener("DOMContentLoaded",function(){var a=document.querySelector(".Zalo");a.addEventListener("click",function(){window.open("https://zalo.me/0987790643","_blank")})});
+document.addEventListener("DOMContentLoaded", function () {
+  var telegramDiv = document.querySelector(".Telegram");
+  telegramDiv.addEventListener("click", function () {
+    window.open("https://t.me/TienMinh294", "_blank");
+  });
+});
+
+document.addEventListener("DOMContentLoaded", function () {
+  var telegramDiv = document.querySelector(".Github");
+  telegramDiv.addEventListener("click", function () {
+    window.open("https://github.com/GLCZ7", "_blank");
+  });
+});
+document.addEventListener("DOMContentLoaded", function () {
+  var telegramDiv = document.querySelector(".Facebook");
+  telegramDiv.addEventListener("click", function () {
+    window.open("https://facebook.com/TienMinh294", "_blank");
+  });
+});
+document.addEventListener("DOMContentLoaded", function () {
+  var telegramDiv = document.querySelector(".Instagram");
+  telegramDiv.addEventListener("click", function () {
+    window.open("https://www.instagram.com/glucozo007/", "_blank");
+  });
+});
+document.addEventListener("DOMContentLoaded", function () {
+  var telegramDiv = document.querySelector(".Tiktok");
+  telegramDiv.addEventListener("click", function () {
+    window.open("https://tiktok.com/@_tiennminhh", "_blank");
+  });
+});
+document.addEventListener("DOMContentLoaded", function () {
+  var telegramDiv = document.querySelector(".Youtube");
+  telegramDiv.addEventListener("click", function () {
+    window.open(
+      "https://www.youtube.com/channel/UCCgn4tXIBfOmYu1jaLSMW4w",
+      "_blank"
+    );
+  });
+});
+document.addEventListener("DOMContentLoaded", function () {
+  var telegramDiv = document.querySelector(".Zalo");
+  telegramDiv.addEventListener("click", function () {
+    window.open("https://zalo.me/0987790643", "_blank");
+  });
+});
