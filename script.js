@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
 document.addEventListener("DOMContentLoaded", function () {
   var telegramDiv = document.querySelector(".Github");
   telegramDiv.addEventListener("click", function () {
-    window.open("https://github.com/GLCZ7", "_blank");
+    window.open("https://github.com/Fruct7", "_blank");
   });
 });
 document.addEventListener("DOMContentLoaded", function () {
