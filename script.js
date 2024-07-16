@@ -1,3 +1,12 @@
+window.addEventListener("load", () => {
+  setTimeout(()=>{
+    const preloader = document.getElementById("preloader");
+    const mainContent = document.getElementById("main-content");
+
+    preloader.classList.add("fade-out");
+    mainContent.classList.add("show");
+  },2000);
+});
 document.addEventListener("DOMContentLoaded", function () {
   var telegramDiv = document.querySelector(".Telegram");
   telegramDiv.addEventListener("click", function () {
